@@ -2,7 +2,7 @@
   <q-page class="bg-grey-5 flex flex-center">
     <q-card class=" bordered q-pa-md bg-grey-3">
       <div>
-        <h1>VOXDATA</h1>
+        <h1>Teste</h1>
         <h2>Desenvolvimento</h2>
         <h3>Acessibilidade</h3>
       </div>
